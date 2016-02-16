@@ -17,3 +17,5 @@
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require adminlte
+
+$('#search').focus();

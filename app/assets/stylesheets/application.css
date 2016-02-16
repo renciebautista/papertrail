@@ -15,3 +15,7 @@
  *= require font-awesome
  *= require adminlte
  */
+
+.container {
+	width: 1350px;
+}
